@@ -4,8 +4,6 @@ require_once('/var/www/html/albergo-wp/SwaggerClient-php/vendor/autoload.php');
 
 class FormGenerator
 {
-
-
     private $servername = "localhost";
     private $username = "root";
     private $password = "pippo";
