@@ -8,6 +8,7 @@ class FormGenerator
     //    private $username = "root";
     //    private $password = "pippo";
     //    private $dbname = "nova-test";
+    //test
     private $form;
     private $name;
     private $email;
